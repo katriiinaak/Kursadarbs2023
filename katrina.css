@@ -27,5 +27,9 @@ body.b222 {
     background-attachment: fixed;
     background-size: cover;
   }
+
+  img.augstums {
+    height: 100px;
+  }
   
   
