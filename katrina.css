@@ -41,23 +41,11 @@ body.b222 {
     border-collapse: collapse;
   }
   th, td {
-    background-color: #6bc9c9;
+    background-color: #a9baba;
   }
 
   .lidzinat {
     margin: 3cm auto 3cm;
     width: 600px;
-    text-align: center;
-  }
-
-
-
-  div.gallery img {
-    width: 100%;
-    height: auto;
-  }
-  
-  div.desc {
-    padding: 15px;
     text-align: center;
   }
