@@ -1,12 +1,12 @@
 body.b222 {
-    background-image: url("bildes/fons3.jpg");
+    background-image: url("bildes/sakums.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
   }
 
   body.b333 {
-    background-image: url("bildes/fons7.jpg");
+    background-image: url("bildes/fons.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -14,7 +14,7 @@ body.b222 {
   
 
   body.b444 {
-    background-image: url("bildes/fons7.jpg");
+    background-image: url("bildes/fons.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -22,7 +22,7 @@ body.b222 {
   
 
   body.b555 {
-    background-image: url("bildes/fons7.jpg");
+    background-image: url("bildes/fons.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -37,9 +37,27 @@ body.b222 {
   }
 
   table.frizs {
-    border: 1px solid white;
+    border: 1px solid rgb(253, 251, 251);
     border-collapse: collapse;
   }
   th, td {
-    background-color: #96D4D4;
+    background-color: #6bc9c9;
+  }
+
+  .lidzinat {
+    margin: 3cm auto 3cm;
+    width: 600px;
+    text-align: center;
+  }
+
+
+
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
   }
