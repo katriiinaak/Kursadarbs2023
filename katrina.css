@@ -1,12 +1,12 @@
 body.sakumafons {
-    background-image: url("bildes/labais3.jpg");
+    background-image: url("bildes/labais.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
   }
 
   body.fons {
-    background-image: url("bildes/labais3.jpg");
+    background-image: url("bildes/labais.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -14,7 +14,7 @@ body.sakumafons {
   
 
   body.fons1 {
-    background-image: url("bildes/labais3.jpg");
+    background-image: url("bildes/labais.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -22,7 +22,7 @@ body.sakumafons {
   
 
   body.fons2 {
-    background-image: url("bildes/labais3.jpg");
+    background-image: url("bildes/labais.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -80,7 +80,7 @@ body.sakumafons {
 
 
   button {
-    background-color: #9a9a9c;
+    background-color: #0a0a0a;
     border: none;
     color: white;
     padding: 10px 20px;
