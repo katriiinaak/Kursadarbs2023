@@ -1,28 +1,28 @@
 body.sakumafons {
-    background-image: url("bildes/labais.jpg");
+    background-image: url("bildes/fons.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
   }
 
-  body.fons {
-    background-image: url("bildes/labais.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-  }
-  
-
-  body.fons1 {
-    background-image: url("bildes/labais.jpg");
+  body.arabsfons {
+    background-image: url("bildes/fons.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
   }
   
 
-  body.fons2 {
-    background-image: url("bildes/labais.jpg");
+  body.frizsfons {
+    background-image: url("bildes/fons.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  
+
+  body.tinkersfons {
+    background-image: url("bildes/fons.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -52,13 +52,12 @@ body.sakumafons {
 
 
 
-
-  table.frizs {
+  table.zirgi {
     border: 1px solid rgb(253, 251, 251);
     border-collapse: collapse;
   }
   th, td {
-    background-color: #a9baba;
+    background-color: #c1cbcb;
   }
 
 
